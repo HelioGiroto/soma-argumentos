@@ -17,7 +17,7 @@ echo "A soma dos argumentos é:" $soma
 
 # Tal como no uso de ARRAYs, aqui nos parâmetros, se usa:
 
-# $* ou $@ 	- para TOTAL dos parâmetros
+# $* ou $@ 	- para TODOS os parâmetros - imprime todos. Como em ${Array[*]}
 # $# 		- para TAMANHO (length) dos parâmetros. Qtos?
 
 
